@@ -27,10 +27,7 @@ carta3.addEventListener("mouseover", function() {
     carta3.classList.add("animate__animated");
     carta3.classList.add("animate__flipInY");
   });
-  carta3.addEventListener("mouseout", function() {
-    carta3.classList.remove("animate__animated");
-    carta3.classList.remove("animate__flipInY");
-  });
+  
   
   //===============================================
 
